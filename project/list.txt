@@ -1,0 +1,7 @@
+apple 1
+cucumber 9
+cherry 5
+watermelon 3
+beet 8
+tomato 7
+hazelnut 2
