@@ -1,0 +1,7 @@
+apple 24
+cucumber 12
+cherry 45
+watermelon 55
+beet 42
+tomato 11
+hazelnut 43
